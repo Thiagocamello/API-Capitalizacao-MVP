@@ -1,0 +1,9 @@
+{
+    "corretoresAssociados": [
+        {"idCorretor": 6, "nomeCorretor": "BANCO DO ESTADO DE SERGIPE S/A", "documentoCorretor": "13009717000146"},
+        {"idCorretor": 26, "nomeCorretor": "PESSOAL CORRETORA DE SEGUROS S", "documentoCorretor": "50667872000186", "codigoSusep": "05952610258253"},
+        {"idCorretor": 3468, "nomeCorretor": "FUNENSEG-FUND ESCOLA NACIONAL", "documentoCorretor": "42161687000197", "codigoSusep": "18888888888888"},
+        {"idCorretor": 3607, "nomeCorretor": "BANESE ADM E CORRETORA DE SEGU", "documentoCorretor": "13180351000173", "codigoSusep": "202031962"},
+        {"idCorretor": 4404, "nomeCorretor": "VALIA CONSULTORIA COR SEG LTDA", "documentoCorretor": "04363575000120", "codigoSusep": "202040148"}
+    ]
+}
