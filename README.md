@@ -1,6 +1,6 @@
 # API de Venda Capitalização – MVP
 
-Este projeto simula o ciclo completo de criação e entrega da 1ª API de Capitalização, com foco em Product Discovery, definição de MVP, integração de sistemas e fidelização de corretores após a aquisição da carteira da SulAmérica.
+Este projeto simula o ciclo completo de criação e entrega da 1ª API da Capitalização, com foco em Product Discovery, definição de MVP, integração de sistemas e corretores e parceiros conseguirem ter acesso aos produtos da cia, de forma Digital e integrada a seu sistema.
 
 ## 🎯 Objetivo
 Implementar uma API escalável e eficiente para operacionalizar a venda e manutenção dos títulos de capitalização, com foco em digitalização e redução de fricções comerciais.
